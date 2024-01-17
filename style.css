@@ -77,6 +77,15 @@ h4 {
     font-size: 1em;
 }
 
+/*---------------------
+COLOR & STYLE
+---------------------*/
+
+
+.theme-orange {
+    background: hsl(30,55%,55%);
+}
+
 
 /*---------------------
 RESPONSIVE
@@ -99,3 +108,8 @@ RESPONSIVE
 }
 
 @media only screen and (min-width: 1200px) {}
+
+/*---------------------
+DEV OVERRIDES
+---------------------*/
+
